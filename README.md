@@ -1,5 +1,5 @@
 # Digispark_CardKB
-Digispark &amp; M5stack CardKB USB Keyboard
+Digispark &amp; CardKB USB Keyboard
 
 Digistump Digispark
 http://digistump.com/wiki/digispark
